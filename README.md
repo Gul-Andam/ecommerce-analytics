@@ -49,7 +49,7 @@ A fully interactive **E-Commerce Customer Behavior Analytics** web application b
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-analytics.git
+git clone https://github.com/Gul-Andam/ecommerce-analytics.git
 cd ecommerce-analytics
 ```
 
@@ -100,15 +100,15 @@ joblib
 ## 📸 Screenshots
 
 ### Overview Dashboard
-![Overview](https://via.placeholder.com/800x400?text=Add+your+screenshot+here)
+<img width="1354" height="729" alt="Website new" src="https://github.com/user-attachments/assets/a3458f0e-c810-4a08-adf5-dc2461c17919" />
 
-> 💡 Replace the placeholder above with an actual screenshot of your app.
 
 ---
 
 ## 🌐 Deployment
 
-This app is deployed for free on **Streamlit Community Cloud**.
+This app is deployed for fr<img width="1354" height="729" alt="Website new" src="https://github.com/user-attachments/assets/e587926f-7b5a-44f0-89c5-0339cf0b2389" />
+ee on **Streamlit Community Cloud**.
 
 To deploy your own version:
 1. Fork this repository
@@ -121,10 +121,9 @@ To deploy your own version:
 
 ## 👨‍💻 Author
 
-**Your Name**
-- LinkedIn: [your-linkedin-url](https://linkedin.com)
-- GitHub: [your-github-url](https://github.com)
-
+**Gul Andam**
+- LinkedIn: https://www.linkedin.com/in/gull-andam-48a2a1331/
+- GitHub: https://github.com/Gul-Andam
 ---
 
 ## 📄 License
